@@ -18,6 +18,8 @@
   "homepage": "https://github.com/meng234885/WX#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "sha1": "^1.1.1"
+    "npm": "^6.4.1",
+    "sha1": "^1.1.1",
+    "xml2js": "^0.4.19"
   }
 }
